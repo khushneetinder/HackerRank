@@ -1,6 +1,6 @@
 import UIKit
 
-let test = false;
+let test = true;
 
 var str = "Hello, playground"
 
