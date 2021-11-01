@@ -1,5 +1,7 @@
 import UIKit
 
+let test = false;
+
 var str = "Hello, playground"
 
 //https://www.hackerrank.com/challenges/birthday-cake-candles/problem
